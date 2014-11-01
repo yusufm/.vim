@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/mnt/host/source/src/third_party/autotest/files/server/cros/faft/config'
+let g:netrw_dirhist_2='/mnt/host/source/src/third_party/autotest/files/server/cros'
+let g:netrw_dirhist_3='/mnt/host/source/src/third_party/autotest/files/server/cros/servo'
+let g:netrw_dirhist_4='/mnt/host/source/src'
+let g:netrw_dirhist_5='/mnt/host/source/src/third_party/autotest/files/server/cros/faft/config'
